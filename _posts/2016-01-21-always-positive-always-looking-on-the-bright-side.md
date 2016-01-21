@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T22:49:49.258Z'
+datePublished: '2016-01-21T22:49:49.309Z'
 dateModified: '2016-01-21T22:49:43.880Z'
 title: Blog.
 author: []
