@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: BA Linguistics at UCL.
-datePublished: '2016-01-21T22:19:03.320Z'
-dateModified: '2016-01-21T22:19:00.749Z'
+datePublished: '2016-01-21T22:30:33.294Z'
+dateModified: '2016-01-21T22:30:31.062Z'
 title: "Enthusiastic. Self-driven. An 'all-in', creative individual."
 author: []
 sourcePath: _posts/2016-01-21-jennie-lim.md
