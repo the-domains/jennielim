@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: BA Linguistics at UCL.
-datePublished: '2016-01-21T22:02:07.620Z'
-dateModified: '2016-01-21T22:02:06.092Z'
+datePublished: '2016-01-21T22:04:39.999Z'
+dateModified: '2016-01-21T22:04:32.593Z'
 title: Jennie Lim
 author: []
 sourcePath: _posts/2016-01-21-jennie-lim.md
@@ -25,5 +25,5 @@ _type: Article
 # Jennie Lim
 
 Enthusiastic. Self-driven. An 'all-in', creative individual.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9ee30a329f5ffeee8908683742f2cd1d396f3bf.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f1f6d2bb7e49695db3e19159aff417f2f8d462b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1ef0435-1a10-433a-a76a-bba5a1b85973.jpg)
