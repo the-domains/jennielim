@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Jennie Lim]]></title>
         <description><![CDATA[Jennie Lim]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jennielim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 22:11:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 22:12:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jennielim/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Enthusiastic. Self-driven. An 'all-in', creative individual.]]></title>
             <description><![CDATA[<article><h1>Enthusiastic. Self-driven. An 'all-in', creative individual.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96d7017bc034ee8cd012de6646deaf87adc91e10.jpg"></article>]]></description>
-            <link>undefinedenthusiastic-self-driven-an-all-in-creative-individual/index.html</link>
+            <link>https://thegrid.ai/jennielim/enthusiastic-self-driven-an-all-in-creative-individual/index.html</link>
             <guid isPermaLink="false">62d8da85-c923-4da9-b6ef-20356beb0eb3</guid>
             <pubDate>Thu, 21 Jan 2016 22:11:57 GMT</pubDate>
         </item>
