@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Enthusiastic. Self-driven. An 'all-in', creative individual."
-datePublished: '2016-01-21T21:20:07.893Z'
+datePublished: '2016-01-21T21:20:07.895Z'
 dateModified: '2016-01-21T21:20:04.627Z'
 title: Jennie Lim
 author: []
