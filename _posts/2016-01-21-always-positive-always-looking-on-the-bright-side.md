@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T22:42:33.367Z'
-dateModified: '2016-01-21T22:42:30.007Z'
-title: About
+datePublished: '2016-01-21T22:49:06.935Z'
+dateModified: '2016-01-21T22:48:48.452Z'
+title: Blog.
 author: []
 sourcePath: _posts/2016-01-21-always-positive-always-looking-on-the-bright-side.md
 published: true
@@ -22,5 +22,5 @@ url: always-positive-always-looking-on-the-bright-side/index.html
 _type: Article
 
 ---
-# About
+# Blog.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1938ae0f-5c25-4e4f-b200-9e06e2eb7e4a.jpg)
