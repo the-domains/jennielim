@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T22:49:49.309Z'
-dateModified: '2016-01-21T22:49:43.880Z'
-title: Blog.
+datePublished: '2016-01-21T22:51:11.716Z'
+dateModified: '2016-01-21T22:51:11.130Z'
+title: ''
 author: []
 sourcePath: _posts/2016-01-21-always-positive-always-looking-on-the-bright-side.md
 published: true
