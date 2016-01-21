@@ -1,0 +1,28 @@
+name: jennielim
+favicon: null
+layout_spectrum: 0.8067978876642883
+typography_spectrum: 0.5443344349041581
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7082379614003003
+  lightness: 0.7608814535196871
+  saturation: 0.7488832522649318
+  rhythmicContrast: 0.3291813696268946
+purpose: []
