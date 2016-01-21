@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: BA Linguistics at UCL.
-datePublished: '2016-01-21T22:05:57.098Z'
-dateModified: '2016-01-21T22:05:53.952Z'
+datePublished: '2016-01-21T22:06:05.739Z'
+dateModified: '2016-01-21T22:06:03.235Z'
 title: Jennie Lim
 author: []
 sourcePath: _posts/2016-01-21-jennie-lim.md
