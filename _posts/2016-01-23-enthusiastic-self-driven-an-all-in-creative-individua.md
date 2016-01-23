@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T17:13:23.133Z'
-dateModified: '2016-01-23T17:13:18.789Z'
+datePublished: '2016-01-23T17:20:32.605Z'
+dateModified: '2016-01-23T17:14:59.301Z'
 title: "​Enthusiastic. Self-driven. An 'all-in', creative individual."
 author: []
 sourcePath: _posts/2016-01-23-enthusiastic-self-driven-an-all-in-creative-individua.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: enthusiastic-self-driven-an-all-in-creative-individua/index.html
-_type: Article
+_type: Blurb
 
 ---
 # ​Enthusiastic. Self-driven. An 'all-in', creative individual.
