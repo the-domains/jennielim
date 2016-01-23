@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T17:54:20.055Z'
-dateModified: '2016-01-23T17:54:17.984Z'
+datePublished: '2016-01-23T17:55:06.314Z'
+dateModified: '2016-01-23T17:55:02.000Z'
 title: "​Enthusiastic. Self-driven. An 'all-in', creative individual."
 author: []
 sourcePath: _posts/2016-01-23-enthusiastic-self-driven-an-all-in-creative-individua.md
