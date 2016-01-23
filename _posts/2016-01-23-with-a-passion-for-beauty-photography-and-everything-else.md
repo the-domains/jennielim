@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T17:36:02.234Z'
+datePublished: '2016-01-23T17:36:02.254Z'
 dateModified: '2016-01-23T17:35:59.548Z'
 title: 'With a passion for beauty, photography, and everything else creative.'
 author: []
