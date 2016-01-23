@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T17:00:24.975Z'
-dateModified: '2016-01-23T17:00:21.649Z'
+datePublished: '2016-01-23T17:08:36.982Z'
+dateModified: '2016-01-23T17:08:09.672Z'
 title: 'With a passion for beauty, photography, and everything else creative.'
 author: []
 sourcePath: _posts/2016-01-23-with-a-passion-for-beauty-photography-and-everything-else.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: with-a-passion-for-beauty-photography-and-everything-else/index.html
-_type: Article
+_type: Blurb
 
 ---
 # With a passion for beauty, photography, and everything else creative.
