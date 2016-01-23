@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T16:48:11.440Z'
-dateModified: '2016-01-23T16:48:08.337Z'
+datePublished: '2016-01-23T17:00:24.914Z'
+dateModified: '2016-01-23T17:00:21.649Z'
 title: 'With a passion for beauty, photography, and everything else creative.'
 author: []
 sourcePath: _posts/2016-01-23-with-a-passion-for-beauty-photography-and-everything-else.md
@@ -22,6 +22,4 @@ url: with-a-passion-for-beauty-photography-and-everything-else/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dc3a622babbf3785ed426a098409de363246613.jpg)
-
 # With a passion for beauty, photography, and everything else creative.
