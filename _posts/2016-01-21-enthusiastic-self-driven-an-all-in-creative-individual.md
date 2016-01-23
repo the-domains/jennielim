@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T12:13:40.344Z'
-dateModified: '2016-01-23T12:13:30.805Z'
+datePublished: '2016-01-23T12:15:19.741Z'
+dateModified: '2016-01-23T12:15:15.875Z'
 title: About.
 author: []
 sourcePath: _posts/2016-01-21-enthusiastic-self-driven-an-all-in-creative-individual.md
