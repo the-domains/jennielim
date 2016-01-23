@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Jennie Lim]]></title>
         <description><![CDATA[Jennie Lim]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jennielim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 17:58:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jan 2016 17:58:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jennielim/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/702680983f28d8586a6a2e121d653430aa5951fb.jpg" alt="" title="">]]></description>
-            <link>undefinedca99697e-90cd-4ea5-9b7e-4654188da848/index.html</link>
+            <link>https://thegrid.ai/jennielim/ca99697e-90cd-4ea5-9b7e-4654188da848/index.html</link>
             <guid isPermaLink="false">ca99697e-90cd-4ea5-9b7e-4654188da848</guid>
             <pubDate>Sat, 23 Jan 2016 17:58:13 GMT</pubDate>
         </item>
