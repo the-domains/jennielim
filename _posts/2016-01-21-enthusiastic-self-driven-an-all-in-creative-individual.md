@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T23:15:55.425Z'
-dateModified: '2016-01-21T23:15:53.454Z'
+datePublished: '2016-01-23T12:13:40.344Z'
+dateModified: '2016-01-23T12:13:30.805Z'
 title: About.
 author: []
 sourcePath: _posts/2016-01-21-enthusiastic-self-driven-an-all-in-creative-individual.md
